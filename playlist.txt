@@ -1,0 +1,2 @@
+/home/icecast/music/a.mp3
+/home/icecast/music/b.mp3
