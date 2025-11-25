@@ -1,2 +1,8 @@
 /home/icecast/music/a.mp3
 /home/icecast/music/b.mp3
+/home/icecast/music/c.mp3
+/home/icecast/music/d.mp3
+/home/icecast/music/e.mp3
+/home/icecast/music/f.mp3
+/home/icecast/music/g.mp3
+/home/icecast/music/h.mp3

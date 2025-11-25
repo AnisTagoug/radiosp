@@ -13,9 +13,9 @@
     </limits>
 
     <authentication>
-        <source-password>crpita</source-password>
+        <source-password>cripta</source-password>
         <admin-user>admin</admin-user>
-        <admin-password>crpita</admin-password>
+        <admin-password>cripta</admin-password>
     </authentication>
 
     <hostname>localhost</hostname>
@@ -50,7 +50,7 @@
 
     <mount>
         <mount-name>/live</mount-name>
-        <password>crpita</password>
+        <password>cripta</password>
         <max-listeners>100</max-listeners>
         <public>1</public>
     </mount>
