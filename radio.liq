@@ -8,7 +8,7 @@ output.icecast(
   %mp3,
   host="localhost",
   port=8090,
-  password="crpita",
+  password="cripta",
   mount="/auto",
   name="Radio AutoDJ + Live",
   genre="Mix",
