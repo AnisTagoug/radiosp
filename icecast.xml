@@ -13,7 +13,7 @@
     </limits>
 
     <authentication>
-        <source-password>cripta</source-password>
+        <source-password>criptadark!</source-password>
         <admin-user>admin</admin-user>
         <admin-password>cripta</admin-password>
     </authentication>
@@ -43,14 +43,14 @@
 
     <mount>
         <mount-name>/auto</mount-name>
-        <password>crpita</password>
+        <password>criptadark!</password>
         <max-listeners>100</max-listeners>
         <public>1</public>
     </mount>
 
     <mount>
         <mount-name>/live</mount-name>
-        <password>cripta</password>
+        <password>criptadark!</password>
         <max-listeners>100</max-listeners>
         <public>1</public>
     </mount>
